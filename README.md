@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Numaliel
 - 👀 I’m interested in learning session of Js, Lua, C++ and more !
-- 🌱 I’m currently learning nothings cuz im kinda dumb ...
-- 💞️ I’m looking to collaborate on some Lua things for GTA V RP !
+- 🌱 I’m currently not learning any type of language.
+- 💞️ I’m looking to collaborate on some Lua/Js things for GTA V RP !
 - 📫 How to reach me Discord : Love Labyrinth#3269
 
 <!---
